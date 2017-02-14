@@ -1,0 +1,2462 @@
+Listening on 0.0.0.0:5555...
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"no-cache","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","Pragma"=>"no-cache","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/4
+7
+4
+6
+x is: 4
+userMove: [4,7,4,6]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnbpawnbpawnbpawnbpawnbpawnbpawnb
+         
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 1
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnb pawnbpawnbpawnbpawnbpawnb
+   pawnb     
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-09T05:38:20
+finish_time: 2017-01-09T05:38:34
+time for simulation: 0
+simulation timed out
+finish_time: 2017-01-09T05:38:20
+now(): 2017-01-09T05:38:20
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+The Move IS: Definition.moveTable(9,0x0002,"move",8,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 3
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnb pawnbpawnbpawnbpawnbpawnb
+   pawnb     
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw    rookw  
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"no-cache","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","Pragma"=>"no-cache","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/5
+7
+5
+6
+x is: 5
+userMove: [5,7,5,6]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnb pawnbpawnbpawnbpawnbpawnb
+   pawnb     
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw    rookw  
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 3
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnb  pawnbpawnbpawnbpawnb
+   pawnbpawnb    
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw    rookw  
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-09T05:38:32
+finish_time: 2017-01-09T05:38:46
+time for simulation: 1
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0004,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+simulation timed out
+finish_time: 2017-01-09T05:38:33
+now(): 2017-01-09T05:38:33
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0004,"move",4,1,5,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 5
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnb  pawnbpawnbpawnbpawnb
+   pawnbpawnb    
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw  gold_generalw rookw  
+lancewknightwsilver_generalw kingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"no-cache","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","Pragma"=>"no-cache","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/5
+6
+5
+5
+x is: 5
+userMove: [5,6,5,5]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnb  pawnbpawnbpawnbpawnb
+   pawnbpawnb    
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw  gold_generalw rookw  
+lancewknightwsilver_generalw kingwgold_generalwsilver_generalwknightwlancew
+user movenumber 5
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnb  pawnbpawnbpawnbpawnb
+   pawnb     
+    pawnb    
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw  gold_generalw rookw  
+lancewknightwsilver_generalw kingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-09T05:38:35
+finish_time: 2017-01-09T05:38:49
+time for simulation: 2
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0006,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0007,"move",2,8,1,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0008,"move",6,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0009,"move",1,8,2,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000a,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0006,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 7
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnb  pawnbpawnbpawnbpawnb
+   pawnb     
+    pawnb    
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw  gold_generalwrookw   
+lancewknightwsilver_generalw kingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"no-cache","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","Pragma"=>"no-cache","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/4
+6
+4
+5
+x is: 4
+userMove: [4,6,4,5]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnb  pawnbpawnbpawnbpawnb
+   pawnb     
+    pawnb    
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw  gold_generalwrookw   
+lancewknightwsilver_generalw kingwgold_generalwsilver_generalwknightwlancew
+user movenumber 7
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnb  pawnbpawnbpawnbpawnb
+         
+   pawnbpawnb    
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw  gold_generalwrookw   
+lancewknightwsilver_generalw kingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-09T05:38:38
+finish_time: 2017-01-09T05:38:52
+time for simulation: 3
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0008,"move",6,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0009,"move",2,8,1,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000a,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000b,"move",1,8,2,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000c,"move",6,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0008,"move",6,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 9
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnb  pawnbpawnbpawnbpawnb
+         
+   pawnbpawnb    
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw  gold_generalw rookw  
+lancewknightwsilver_generalw kingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"no-cache","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","Pragma"=>"no-cache","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/2
+8
+5
+8
+x is: 2
+userMove: [2,8,5,8]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnb  pawnbpawnbpawnbpawnb
+         
+   pawnbpawnb    
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw  gold_generalw rookw  
+lancewknightwsilver_generalw kingwgold_generalwsilver_generalwknightwlancew
+user movenumber 9
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+    rookb  bishopb 
+pawnbpawnbpawnb  pawnbpawnbpawnbpawnb
+         
+   pawnbpawnb    
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw  gold_generalw rookw  
+lancewknightwsilver_generalw kingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-09T05:38:40
+finish_time: 2017-01-09T05:38:54
+time for simulation: 4
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000a,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000b,"move",5,8,5,7,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000c,"move",6,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000d,"move",5,7,5,6,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000e,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x000a,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 11
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+    rookb  bishopb 
+pawnbpawnbpawnb  pawnbpawnbpawnbpawnb
+         
+   pawnbpawnb    
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw  gold_generalwrookw   
+lancewknightwsilver_generalw kingwgold_generalwsilver_generalwknightwlancew
+MethodError(convert,(HttpCommon.Response,nothing))
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/7
+7
+7
+6
+x is: 7
+userMove: [7,7,7,6]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+    rookb  bishopb 
+pawnbpawnbpawnb  pawnbpawnbpawnbpawnb
+         
+   pawnbpawnb    
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw  gold_generalwrookw   
+lancewknightwsilver_generalw kingwgold_generalwsilver_generalwknightwlancew
+user movenumber 11
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+    rookb  bishopb 
+pawnbpawnbpawnb  pawnb pawnbpawnb
+      pawnb  
+   pawnbpawnb    
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw  gold_generalwrookw   
+lancewknightwsilver_generalw kingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-10T18:38:07
+finish_time: 2017-01-10T18:38:21
+time for simulation: 5
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000c,"move",6,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000d,"move",8,8,7,7,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000e,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000f,"move",7,7,6,6,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0010,"move",6,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x000c,"move",6,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 13
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+    rookb  bishopb 
+pawnbpawnbpawnb  pawnb pawnbpawnb
+      pawnb  
+   pawnbpawnb    
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw  gold_generalw rookw  
+lancewknightwsilver_generalw kingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"no-cache","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","Pragma"=>"no-cache","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"no-cache","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","Pragma"=>"no-cache","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/7
+7
+7
+6
+x is: 7
+userMove: [7,7,7,6]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnbpawnbpawnbpawnbpawnbpawnbpawnb
+         
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 1
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnbpawnbpawnbpawnb pawnbpawnb
+      pawnb  
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-10T18:38:21
+finish_time: 2017-01-10T18:38:35
+time for simulation: 6
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0002,"move",8,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0003,"move",8,8,7,7,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0004,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0005,"move",7,7,6,6,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0006,"move",6,2,5,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0002,"move",8,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 3
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnbpawnbpawnbpawnb pawnbpawnb
+      pawnb  
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw    rookw  
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"no-cache","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","Pragma"=>"no-cache","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+MethodError(convert,(HttpCommon.Response,nothing))
+MethodError(convert,(HttpCommon.Response,nothing))
+MethodError(convert,(HttpCommon.Response,nothing))
+MethodError(convert,(HttpCommon.Response,nothing))
+Dict{AbstractString,AbstractString}("Connection"=>"close","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate","User-Agent"=>"Mozilla/5.0 (Linux; Android 7.1; Android SDK built for x86 Build/NPF26K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/52.0.2743.100 Mobile Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"org.chromium.webview_shell","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-US","X-NginX-Proxy"=>"true")
+GET
+/hello/2
+7
+2
+6
+x is: 2
+userMove: [2,7,2,6]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnbpawnbpawnbpawnbpawnbpawnbpawnb
+         
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 1
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnb pawnbpawnbpawnbpawnbpawnbpawnbpawnb
+ pawnb       
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-12T06:42:48
+finish_time: 2017-01-12T06:43:02
+time for simulation: 7
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0002,"move",8,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0003,"move",2,8,2,7,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0004,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0005,"move",2,7,2,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0006,"move",6,2,5,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0002,"move",9,3,9,4,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 3
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnb pawnbpawnbpawnbpawnbpawnbpawnbpawnb
+ pawnb       
+         
+        pawnw
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw 
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate","User-Agent"=>"Mozilla/5.0 (Linux; Android 7.1; Android SDK built for x86 Build/NPF26K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/52.0.2743.100 Mobile Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-US","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+MethodError(convert,(HttpCommon.Response,nothing))
+MethodError(convert,(HttpCommon.Response,nothing))
+MethodError(convert,(HttpCommon.Response,nothing))
+MethodError(convert,(HttpCommon.Response,nothing))
+MethodError(convert,(HttpCommon.Response,nothing))
+MethodError(convert,(HttpCommon.Response,nothing))
+Dict{AbstractString,AbstractString}("Connection"=>"close","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate","User-Agent"=>"Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C92 Safari/602.1","X-Real-IP"=>"142.58.85.246","X-Forwarded-For"=>"142.58.85.246","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-ca","X-NginX-Proxy"=>"true")
+GET
+/hello/7
+7
+7
+6
+x is: 7
+userMove: [7,7,7,6]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnbpawnbpawnbpawnbpawnbpawnbpawnb
+         
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 1
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnbpawnbpawnbpawnb pawnbpawnb
+      pawnb  
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-13T22:10:15
+finish_time: 2017-01-13T22:10:29
+time for simulation: 8
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0002,"move",8,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0003,"move",8,8,7,7,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0004,"move",6,2,5,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0005,"move",7,7,6,6,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0006,"move",5,2,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0002,"move",8,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 3
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnbpawnbpawnbpawnb pawnbpawnb
+      pawnb  
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw    rookw  
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C92 Safari/602.1","Accept-Encoding"=>"gzip, deflate","X-Real-IP"=>"142.58.85.246","X-Forwarded-For"=>"142.58.85.246","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-ca","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C92 Safari/602.1","Accept-Encoding"=>"gzip, deflate","X-Real-IP"=>"142.58.85.246","X-Forwarded-For"=>"142.58.85.246","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-ca","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C92 Safari/602.1","Accept-Encoding"=>"gzip, deflate","X-Real-IP"=>"142.58.85.246","X-Forwarded-For"=>"142.58.85.246","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-ca","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"142.58.165.43","X-Forwarded-For"=>"142.58.165.43","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/6
+7
+6
+6
+x is: 6
+userMove: [6,7,6,6]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnbpawnbpawnbpawnbpawnbpawnbpawnb
+         
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 1
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnbpawnbpawnb pawnbpawnbpawnb
+     pawnb   
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-14T00:40:27
+finish_time: 2017-01-14T00:40:41
+time for simulation: 9
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0002,"move",8,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0003,"move",2,8,1,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0004,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0005,"move",1,8,2,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0006,"move",6,2,5,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0002,"move",8,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 3
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnbpawnbpawnb pawnbpawnbpawnb
+     pawnb   
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw    rookw  
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"142.58.165.43","X-Forwarded-For"=>"142.58.165.43","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/6
+6
+6
+5
+x is: 6
+userMove: [6,6,6,5]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnbpawnbpawnb pawnbpawnbpawnb
+     pawnb   
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw    rookw  
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 3
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnbpawnbpawnb pawnbpawnbpawnb
+         
+     pawnb   
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw    rookw  
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-14T00:40:34
+finish_time: 2017-01-14T00:40:48
+time for simulation: 10
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0004,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0005,"move",2,8,1,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0006,"move",6,2,5,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0007,"move",1,8,2,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0008,"move",5,2,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0004,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 5
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnbpawnbpawnb pawnbpawnbpawnb
+         
+     pawnb   
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw   rookw   
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","X-Real-IP"=>"142.58.165.43","X-Forwarded-For"=>"142.58.165.43","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+MethodError(convert,(HttpCommon.Response,nothing))
+MethodError(convert,(HttpCommon.Response,nothing))
+MethodError(convert,(HttpCommon.Response,nothing))
+MethodError(convert,(HttpCommon.Response,nothing))
+MethodError(convert,(HttpCommon.Response,nothing))
+MethodError(convert,(HttpCommon.Response,nothing))
+MethodError(convert,(HttpCommon.Response,nothing))
+MethodError(convert,(HttpCommon.Response,nothing))
+MethodError(convert,(HttpCommon.Response,nothing))
+MethodError(convert,(HttpCommon.Response,nothing))
+MethodError(convert,(HttpCommon.Response,nothing))
+MethodError(convert,(HttpCommon.Response,nothing))
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"no-cache","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","Pragma"=>"no-cache","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/6
+7
+6
+6
+x is: 6
+userMove: [6,7,6,6]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnbpawnbpawnbpawnbpawnbpawnbpawnb
+         
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 1
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnbpawnbpawnb pawnbpawnbpawnb
+     pawnb   
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-19T23:34:38
+finish_time: 2017-01-19T23:34:52
+time for simulation: 11
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0002,"move",8,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0003,"move",2,8,1,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0004,"move",6,2,5,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0005,"move",1,8,2,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0006,"move",5,2,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0002,"move",8,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 3
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnbpawnbpawnb pawnbpawnbpawnb
+     pawnb   
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw    rookw  
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"no-cache","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","Pragma"=>"no-cache","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+MethodError(convert,(HttpCommon.Response,nothing))
+MethodError(convert,(HttpCommon.Response,nothing))
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/2
+7
+2
+6
+x is: 2
+userMove: [2,7,2,6]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnbpawnbpawnbpawnbpawnbpawnbpawnb
+         
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 1
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnb pawnbpawnbpawnbpawnbpawnbpawnbpawnb
+ pawnb       
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-24T19:42:13
+finish_time: 2017-01-24T19:42:27
+time for simulation: 12
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0002,"move",8,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0003,"move",2,8,2,7,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0004,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0005,"move",2,7,2,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0006,"move",6,2,5,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0002,"move",4,3,4,4,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 3
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnb pawnbpawnbpawnbpawnbpawnbpawnbpawnb
+ pawnb       
+         
+   pawnw     
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/3
+7
+3
+6
+x is: 3
+userMove: [3,7,3,6]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnb pawnbpawnbpawnbpawnbpawnbpawnbpawnb
+ pawnb       
+         
+   pawnw     
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 3
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnbpawnb      
+         
+   pawnw     
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-24T19:42:19
+finish_time: 2017-01-24T19:42:33
+time for simulation: 13
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0004,"move",8,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0005,"move",2,8,2,7,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0006,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0007,"move",2,7,2,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0008,"move",6,2,5,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0004,"move",4,4,4,5,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 5
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnbpawnb      
+   pawnw     
+         
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/2
+8
+4
+8
+x is: 2
+userMove: [2,8,4,8]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnbpawnb      
+   pawnw     
+         
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 5
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnbpawnb      
+   pawnw     
+         
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-24T19:42:27
+finish_time: 2017-01-24T19:42:41
+time for simulation: 13
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0006,"move",8,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0007,"move",4,8,3,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0008,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0009,"move",3,8,3,7,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000a,"move",6,2,5,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0006,"move",8,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 7
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnbpawnb      
+   pawnw     
+         
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw    rookw  
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/3
+9
+3
+8
+x is: 3
+userMove: [3,9,3,8]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnbpawnb      
+   pawnw     
+         
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw    rookw  
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 7
+Valdidity: true
+
+lancebknightb gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+  silver_generalbrookb   bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnbpawnb      
+   pawnw     
+         
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw    rookw  
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-24T19:42:34
+finish_time: 2017-01-24T19:42:48
+time for simulation: 13
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0008,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0009,"move",4,8,5,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000a,"move",6,2,5,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000b,"move",5,8,4,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000c,"move",5,2,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0008,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 9
+validity:true
+
+lancebknightb gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+  silver_generalbrookb   bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnbpawnb      
+   pawnw     
+         
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw   rookw   
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/3
+6
+3
+5
+x is: 3
+userMove: [3,6,3,5]
+in moveHandler...
+
+lancebknightb gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+  silver_generalbrookb   bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnbpawnb      
+   pawnw     
+         
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw   rookw   
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 9
+Valdidity: true
+
+lancebknightb gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+  silver_generalbrookb   bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnb       
+  pawnbpawnw     
+         
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw   rookw   
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-24T19:42:39
+finish_time: 2017-01-24T19:42:53
+time for simulation: 13
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000a,"move",6,2,5,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000b,"move",4,8,5,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000c,"move",5,2,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000d,"move",5,8,4,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000e,"move",4,2,4,3,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x000a,"move",6,2,5,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 11
+validity:true
+
+lancebknightb gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+  silver_generalbrookb   bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnb       
+  pawnbpawnw     
+         
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw  rookw    
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/3
+8
+3
+7
+x is: 3
+userMove: [3,8,3,7]
+in moveHandler...
+
+lancebknightb gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+  silver_generalbrookb   bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnb       
+  pawnbpawnw     
+         
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw  rookw    
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 11
+Valdidity: true
+
+lancebknightb gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb silver_generalbpawnbpawnbpawnbpawnbpawnbpawnb
+ pawnb       
+  pawnbpawnw     
+         
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw  rookw    
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-24T19:42:42
+finish_time: 2017-01-24T19:42:56
+time for simulation: 13
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000c,"move",5,2,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000d,"move",4,8,3,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000e,"move",4,2,4,3,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000f,"move",3,8,3,9,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0010,"move",4,3,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x000c,"move",5,2,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 13
+validity:true
+
+lancebknightb gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb silver_generalbpawnbpawnbpawnbpawnbpawnbpawnb
+ pawnb       
+  pawnbpawnw     
+         
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw rookw     
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/3
+7
+3
+6
+x is: 3
+userMove: [3,7,3,6]
+in moveHandler...
+
+lancebknightb gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb silver_generalbpawnbpawnbpawnbpawnbpawnbpawnb
+ pawnb       
+  pawnbpawnw     
+         
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw rookw     
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 13
+Valdidity: true
+
+lancebknightb gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnbsilver_generalb      
+  pawnbpawnw     
+         
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw rookw     
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-24T19:42:46
+finish_time: 2017-01-24T19:43:00
+time for simulation: 13
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000e,"move",4,2,4,3,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000f,"move",4,8,3,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0010,"move",4,3,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0011,"move",3,8,3,7,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0012,"move",4,2,4,3,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x000e,"move",4,2,4,3,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 15
+validity:true
+
+lancebknightb gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnbsilver_generalb      
+  pawnbpawnw     
+         
+pawnwpawnwpawnwrookwpawnwpawnwpawnwpawnwpawnw
+ bishopw       
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/2
+9
+3
+7
+x is: 2
+userMove: [2,9,3,7]
+in moveHandler...
+
+lancebknightb gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnbsilver_generalb      
+  pawnbpawnw     
+         
+pawnwpawnwpawnwrookwpawnwpawnwpawnwpawnwpawnw
+ bishopw       
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 15
+Valdidity: true
+
+lanceb  gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb knightbpawnbpawnbpawnbpawnbpawnbpawnb
+ pawnbsilver_generalb      
+  pawnbpawnw     
+         
+pawnwpawnwpawnwrookwpawnwpawnwpawnwpawnwpawnw
+ bishopw       
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-24T19:43:07
+finish_time: 2017-01-24T19:43:21
+time for simulation: 13
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0010,"move",4,5,4,6,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 1.0
+chosen maxState: Definition.moveTable(9,0x0011,"move",4,7,4,6,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: -1.0
+chosen maxState: Definition.moveTable(9,0x0012,"move",4,3,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 1.0
+chosen maxState: Definition.moveTable(9,0x0013,"move",4,8,4,7,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: -1.0
+chosen maxState: Definition.moveTable(9,0x0014,"move",4,2,4,3,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: -1.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0010,"move",4,5,4,6,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 17
+validity:true
+
+lanceb  gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb knightbpawnbpawnbpawnbpawnbpawnbpawnb
+ pawnbsilver_generalbpawnw     
+  pawnb      
+         
+pawnwpawnwpawnwrookwpawnwpawnwpawnwpawnwpawnw
+ bishopw       
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/4
+7
+4
+6
+x is: 4
+userMove: [4,7,4,6]
+in moveHandler...
+
+lanceb  gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb knightbpawnbpawnbpawnbpawnbpawnbpawnb
+ pawnbsilver_generalbpawnw     
+  pawnb      
+         
+pawnwpawnwpawnwrookwpawnwpawnwpawnwpawnwpawnw
+ bishopw       
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 17
+Valdidity: true
+
+lanceb  gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb knightb pawnbpawnbpawnbpawnbpawnb
+ pawnbsilver_generalbpawnb     
+  pawnb      
+         
+pawnwpawnwpawnwrookwpawnwpawnwpawnwpawnwpawnw
+ bishopw       
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-24T19:43:10
+finish_time: 2017-01-24T19:43:24
+time for simulation: 13
+max_material_score: -1.0
+chosen maxState: Definition.moveTable(9,0x0012,"move",4,3,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 1.0
+chosen maxState: Definition.moveTable(9,0x0013,"move",4,8,4,7,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: -1.0
+chosen maxState: Definition.moveTable(9,0x0014,"move",4,2,4,3,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 1.0
+chosen maxState: Definition.moveTable(9,0x0015,"move",4,7,4,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: -1.0
+chosen maxState: Definition.moveTable(9,0x0016,"move",4,3,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: -1.0
+firstState_score: -1.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0012,"move",4,3,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 19
+validity:true
+
+lanceb  gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb knightb pawnbpawnbpawnbpawnbpawnb
+ pawnbsilver_generalbpawnb     
+  pawnb      
+         
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw rookw     
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/3
+7
+2
+5
+x is: 3
+userMove: [3,7,2,5]
+in moveHandler...
+
+lanceb  gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb knightb pawnbpawnbpawnbpawnbpawnb
+ pawnbsilver_generalbpawnb     
+  pawnb      
+         
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw rookw     
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 19
+Valdidity: true
+
+lanceb  gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb   pawnbpawnbpawnbpawnbpawnb
+ pawnbsilver_generalbpawnb     
+ knightbpawnb      
+         
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw rookw     
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-24T19:43:20
+finish_time: 2017-01-24T19:43:34
+time for simulation: 13
+max_material_score: -1.0
+chosen maxState: Definition.moveTable(9,0x0014,"move",4,2,4,3,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 1.0
+chosen maxState: Definition.moveTable(9,0x0015,"move",4,8,4,7,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: -1.0
+chosen maxState: Definition.moveTable(9,0x0016,"move",4,3,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 1.0
+chosen maxState: Definition.moveTable(9,0x0017,"move",4,7,4,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: -1.0
+chosen maxState: Definition.moveTable(9,0x0018,"move",4,2,4,3,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: -1.0
+firstState_score: -1.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0014,"move",4,2,4,3,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 21
+validity:true
+
+lanceb  gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb   pawnbpawnbpawnbpawnbpawnb
+ pawnbsilver_generalbpawnb     
+ knightbpawnb      
+         
+pawnwpawnwpawnwrookwpawnwpawnwpawnwpawnwpawnw
+ bishopw       
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/4
+6
+4
+5
+x is: 4
+userMove: [4,6,4,5]
+in moveHandler...
+
+lanceb  gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb   pawnbpawnbpawnbpawnbpawnb
+ pawnbsilver_generalbpawnb     
+ knightbpawnb      
+         
+pawnwpawnwpawnwrookwpawnwpawnwpawnwpawnwpawnw
+ bishopw       
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 21
+Valdidity: true
+
+lanceb  gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb   pawnbpawnbpawnbpawnbpawnb
+ pawnbsilver_generalb      
+ knightbpawnbpawnb     
+         
+pawnwpawnwpawnwrookwpawnwpawnwpawnwpawnwpawnw
+ bishopw       
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-24T19:43:29
+finish_time: 2017-01-24T19:43:43
+time for simulation: 13
+max_material_score: -1.0
+chosen maxState: Definition.moveTable(9,0x0016,"move",4,3,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 1.0
+chosen maxState: Definition.moveTable(9,0x0017,"move",4,8,4,7,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: -1.0
+chosen maxState: Definition.moveTable(9,0x0018,"move",4,2,4,3,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 1.0
+chosen maxState: Definition.moveTable(9,0x0019,"move",4,7,4,6,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: -1.0
+chosen maxState: Definition.moveTable(9,0x001a,"move",4,3,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: -1.0
+firstState_score: -1.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0016,"move",4,3,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 23
+validity:true
+
+lanceb  gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb   pawnbpawnbpawnbpawnbpawnb
+ pawnbsilver_generalb      
+ knightbpawnbpawnb     
+         
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw rookw     
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/4
+5
+4
+4
+x is: 4
+userMove: [4,5,4,4]
+in moveHandler...
+
+lanceb  gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb   pawnbpawnbpawnbpawnbpawnb
+ pawnbsilver_generalb      
+ knightbpawnbpawnb     
+         
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw rookw     
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 23
+Valdidity: true
+
+lanceb  gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb   pawnbpawnbpawnbpawnbpawnb
+ pawnbsilver_generalb      
+ knightbpawnb      
+   pawnb     
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw rookw     
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-24T19:43:31
+finish_time: 2017-01-24T19:43:45
+time for simulation: 13
+max_material_score: -1.0
+chosen maxState: Definition.moveTable(9,0x0018,"move",4,2,3,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 1.0
+chosen maxState: Definition.moveTable(9,0x0019,"move",4,8,4,7,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: -1.0
+chosen maxState: Definition.moveTable(9,0x001a,"move",3,2,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0
+max_material_score: 1.0
+chosen maxState: Definition.moveTable(9,0x001b,"move",4,7,4,6,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: -1.0
+chosen maxState: Definition.moveTable(9,0x001c,"move",4,2,3,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: -1.0
+firstState_score: -1.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0018,"move",4,2,3,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 25
+validity:true
+
+lanceb  gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb   pawnbpawnbpawnbpawnbpawnb
+ pawnbsilver_generalb      
+ knightbpawnb      
+   pawnb     
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopwrookw      
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/7
+7
+7
+6
+x is: 7
+userMove: [7,7,7,6]
+in moveHandler...
+
+lanceb  gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb   pawnbpawnbpawnbpawnbpawnb
+ pawnbsilver_generalb      
+ knightbpawnb      
+   pawnb     
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopwrookw      
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 25
+Valdidity: true
+
+lanceb  gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb   pawnbpawnb pawnbpawnb
+ pawnbsilver_generalb   pawnb  
+ knightbpawnb      
+   pawnb     
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopwrookw      
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-24T19:43:38
+finish_time: 2017-01-24T19:43:52
+time for simulation: 13
+max_material_score: -1.0
+chosen maxState: Definition.moveTable(9,0x001a,"move",3,2,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0
+max_material_score: 1.0
+chosen maxState: Definition.moveTable(9,0x001b,"move",8,8,7,7,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: -1.0
+chosen maxState: Definition.moveTable(9,0x001c,"move",4,2,3,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 1.0
+chosen maxState: Definition.moveTable(9,0x001d,"move",7,7,6,6,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: -1.0
+chosen maxState: Definition.moveTable(9,0x001e,"move",3,2,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: -1.0
+firstState_score: -1.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x001a,"move",3,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 27
+validity:true
+
+lanceb  gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb   pawnbpawnb pawnbpawnb
+ pawnbsilver_generalb   pawnb  
+ knightbpawnb      
+   pawnb     
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw    rookw  
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/8
+8
+5
+5
+x is: 8
+userMove: [8,8,5,5]
+in moveHandler...
+
+lanceb  gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb   bishopb 
+pawnb   pawnbpawnb pawnbpawnb
+ pawnbsilver_generalb   pawnb  
+ knightbpawnb      
+   pawnb     
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw    rookw  
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 27
+Valdidity: true
+
+lanceb  gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb     
+pawnb   pawnbpawnb pawnbpawnb
+ pawnbsilver_generalb   pawnb  
+ knightbpawnb bishopb    
+   pawnb     
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw    rookw  
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-01-24T19:43:49
+finish_time: 2017-01-24T19:44:03
+time for simulation: 13
+max_material_score: -1.0
+chosen maxState: Definition.moveTable(9,0x001c,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 1.0
+chosen maxState: Definition.moveTable(9,0x001d,"move",5,5,6,6,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: -1.0
+chosen maxState: Definition.moveTable(9,0x001e,"move",6,2,5,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 1.0
+chosen maxState: Definition.moveTable(9,0x001f,"move",6,6,5,5,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: -1.0
+chosen maxState: Definition.moveTable(9,0x0020,"move",5,2,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: -1.0
+firstState_score: -1.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x001c,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 29
+validity:true
+
+lanceb  gold_generalbkingbgold_generalbsilver_generalbknightblanceb
+   rookb     
+pawnb   pawnbpawnb pawnbpawnb
+ pawnbsilver_generalb   pawnb  
+ knightbpawnb bishopb    
+   pawnb     
+pawnwpawnwpawnw pawnwpawnwpawnwpawnwpawnw
+ bishopw   rookw   
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=ph689vipn0d3e53ql1v792rhh5","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/3
+7
+3
+6
+x is: 3
+userMove: [3,7,3,6]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnbpawnbpawnbpawnbpawnbpawnbpawnb
+         
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 1
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnb pawnbpawnbpawnbpawnbpawnbpawnb
+  pawnb      
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-02-05T08:31:02
+finish_time: 2017-02-05T08:31:16
+time for simulation: 13
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0002,"move",8,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0003,"move",2,8,1,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0004,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0005,"move",1,8,2,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0006,"move",6,2,5,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0002,"move",1,1,1,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 3
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnb pawnbpawnbpawnbpawnbpawnbpawnb
+  pawnb      
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+lancewbishopw     rookw 
+ knightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"no-cache","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","Pragma"=>"no-cache","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","Cache-Control"=>"max-age=0","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","Accept-Encoding"=>"gzip, deflate, sdch, br","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","X-Requested-With"=>"XMLHttpRequest","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/
+restart
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/2
+7
+2
+6
+x is: 2
+userMove: [2,7,2,6]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnbpawnbpawnbpawnbpawnbpawnbpawnbpawnbpawnb
+         
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 1
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnb pawnbpawnbpawnbpawnbpawnbpawnbpawnb
+ pawnb       
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw     rookw 
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-02-05T20:21:51
+finish_time: 2017-02-05T20:22:05
+time for simulation: 13
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0002,"move",8,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.8241870157608322
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0003,"move",2,8,2,7,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0004,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0005,"move",2,7,2,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0006,"move",6,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.8241870157608322
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+The Move IS: Definition.moveTable(9,0x0002,"move",8,2,7,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 3
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnb pawnbpawnbpawnbpawnbpawnbpawnbpawnb
+ pawnb       
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw    rookw  
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/3
+7
+3
+6
+x is: 3
+userMove: [3,7,3,6]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnb pawnbpawnbpawnbpawnbpawnbpawnbpawnb
+ pawnb       
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw    rookw  
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 3
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnbpawnb      
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw    rookw  
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-02-05T20:21:56
+finish_time: 2017-02-05T20:22:10
+time for simulation: 13
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0004,"move",7,2,6,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0005,"move",2,8,2,7,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0006,"move",6,2,5,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0007,"move",2,7,2,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0008,"move",5,2,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0004,"move",7,2,5,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 5
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnbpawnb      
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw  rookw    
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/3
+6
+3
+5
+x is: 3
+userMove: [3,6,3,5]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnbpawnb      
+         
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw  rookw    
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 5
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnb       
+  pawnb      
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw  rookw    
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-02-05T20:21:59
+finish_time: 2017-02-05T20:22:13
+time for simulation: 13
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0006,"move",5,2,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0007,"move",2,8,2,7,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0008,"move",4,2,3,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0009,"move",2,7,2,8,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000a,"move",3,2,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0006,"move",5,2,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 7
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnb       
+  pawnb      
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw rookw     
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/2
+8
+3
+8
+x is: 2
+userMove: [2,8,3,8]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+ rookb     bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnb       
+  pawnb      
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw rookw     
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 7
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+  rookb    bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnb       
+  pawnb      
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw rookw     
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-02-05T20:22:02
+finish_time: 2017-02-05T20:22:16
+time for simulation: 13
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0008,"move",4,2,3,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x0009,"move",3,8,3,7,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000a,"move",3,2,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000b,"move",3,7,3,6,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 0.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000c,"move",4,2,3,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x0008,"move",4,2,3,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 9
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+  rookb    bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnb       
+  pawnb      
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopwrookw      
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/7
+7
+7
+6
+x is: 7
+userMove: [7,7,7,6]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+  rookb    bishopb 
+pawnb  pawnbpawnbpawnbpawnbpawnbpawnb
+ pawnb       
+  pawnb      
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopwrookw      
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 9
+Valdidity: true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+  rookb    bishopb 
+pawnb  pawnbpawnbpawnb pawnbpawnb
+ pawnb    pawnb  
+  pawnb      
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopwrookw      
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+AI's making a move...
+now: 2017-02-05T20:22:05
+finish_time: 2017-02-05T20:22:19
+time for simulation: 13
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000a,"move",3,2,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000b,"move",8,8,7,7,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000c,"move",4,2,3,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000d,"move",7,7,6,6,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+max_material_score: 0.0
+chosen maxState: Definition.moveTable(9,0x000e,"move",3,2,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+score: 1.0
+no winning player. Determining material_score...
+current_score: 0.0
+firstState_score: 0.0
+originPlayer: w
+not timedout
+The Move IS: Definition.moveTable(9,0x000a,"move",3,2,4,2,"?",false,-1,-1,-1,-1,-1,-1,-1,-1)
+movenumber 11
+validity:true
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+  rookb    bishopb 
+pawnb  pawnbpawnbpawnb pawnbpawnb
+ pawnb    pawnb  
+  pawnb      
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw rookw     
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+Dict{AbstractString,AbstractString}("Connection"=>"close","Cookie"=>"PHPSESSID=k3fputmv0lu6ptk86ci4qt2eh2","DNT"=>"1","http_minor"=>"0","Keep-Alive"=>"0","Accept-Encoding"=>"gzip, deflate, sdch, br","User-Agent"=>"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36","X-Real-IP"=>"70.68.97.85","X-Forwarded-For"=>"70.68.97.85","Referer"=>"https://jaesportfolio.com/projects/japChess/jsboard-master/index.html","Host"=>"jaesportfolio.com","http_major"=>"1","Accept"=>"*/*","Accept-Language"=>"en-GB,en-US;q=0.8,en;q=0.6","X-NginX-Proxy"=>"true")
+GET
+/hello/8
+7
+8
+6
+x is: 8
+userMove: [8,7,8,6]
+in moveHandler...
+
+lancebknightbsilver_generalbgold_generalbkingbgold_generalbsilver_generalbknightblanceb
+  rookb    bishopb 
+pawnb  pawnbpawnbpawnb pawnbpawnb
+ pawnb    pawnb  
+  pawnb      
+         
+pawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnwpawnw
+ bishopw rookw     
+lancewknightwsilver_generalwgold_generalwkingwgold_generalwsilver_generalwknightwlancew
+user movenumber 11
+Valdidity: true
+
+lancebknightbsilver_generalb

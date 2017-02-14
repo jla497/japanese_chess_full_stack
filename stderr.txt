@@ -1,0 +1,610 @@
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/Definition.jl:4
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/Definition.jl:18
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/Definition.jl:18
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/Definition.jl:18
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/Definition.jl:18
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/Definition.jl:18
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/Definition.jl:18
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/Definition.jl:33
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/Definition.jl:33
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/Definition.jl:61
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/Definition.jl:61
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/setupLibrary.jl:682
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/board.jl:11
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/board.jl:740
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/board.jl:740
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/board.jl:761
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/board.jl:786
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/board.jl:893
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/board.jl:893
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/board.jl:893
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/board.jl:1026
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/board.jl:1134
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/board.jl:1134
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/board.jl:1134
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/board.jl:1266
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/board.jl:1368
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/board.jl:2125
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/aiLibraryTwo.jl:39
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/aiLibraryTwo.jl:41
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/aiLibraryTwo.jl:152
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:11
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:13
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:13
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:13
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:13
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:13
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:13
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:13
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:13
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:13
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:13
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:13
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:13
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:13
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:13
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:13
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:13
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:13
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:13
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+in dispBoard at /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+in dispBoard at /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+in dispBoard at /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+in dispBoard at /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+in evaluateMove at /usr/share/nginx/jaesportfolio.com/projects/japChess/board.jl
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+in evaluateMove at /usr/share/nginx/jaesportfolio.com/projects/japChess/board.jl
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+in evaluateMove at /usr/share/nginx/jaesportfolio.com/projects/japChess/board.jl
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+in evaluateMove at /usr/share/nginx/jaesportfolio.com/projects/japChess/board.jl
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
+WARNING: Base.String is deprecated, use AbstractString instead.
+  likely near /usr/share/nginx/jaesportfolio.com/projects/japChess/serve.jl:144
